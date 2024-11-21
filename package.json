@@ -13,6 +13,7 @@
     "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.3",
     "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
+    "chai": "^5.1.2",
     "cucumber": "^6.0.7",
     "cypress": "^13.16.0"
   }

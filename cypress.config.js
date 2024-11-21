@@ -22,7 +22,7 @@ async function setupNodeEvents(on, config) {
 
 module.exports = defineConfig({
   e2e: {
-    specPattern: "cypress/e2e/login.feature",
+    specPattern: "cypress/e2e",
     supportFile: false,
     setupNodeEvents,
   },
